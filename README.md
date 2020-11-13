@@ -1,1 +1,1 @@
-# calibre-moly.hu
+A plugin which downloads e-book metadata and covers from [](https://moly.hu/) for [Calibre](https://calibre-ebook.com/), an e-book management program. It uses the API provided by the site, so you will need an API key from them.
